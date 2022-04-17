@@ -33,7 +33,9 @@ Enum같은 경우는, Swagger에서 Request Body -> Schema 선택하시면 옵�
 1. POST /user/login/
 
 (type Enum에 세 종류 [ phone_number, email, nickname ])
+
 (식별 가능한 정보: 전화번호, 이메일, 닉네임)
+
 p.s. 이름은 중복이 가능하기에, 식별 불가능한 정보로 간주
 
 
