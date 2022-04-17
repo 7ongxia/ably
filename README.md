@@ -1,6 +1,8 @@
-# 조건
+# 사용 Stack
 Python3.*
 pipenv
+FastAPI
+
 
 
 # Local에서 서버 돌리는 법
